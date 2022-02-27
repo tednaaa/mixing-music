@@ -271,7 +271,7 @@
 <details>
   <hr />
   <summary>Можем взять стоковый пресет для мастеринга, например Master Full Chain и добавляем эффекты по желанию (например басс)</summary>
-  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155899284-6baa65f5-b710-4eef-b511-346e45cea981.png">
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155900338-cd7b5747-efca-4c11-8f22-8d94e6d1a661.png">
   <hr />
 </details>
 <details>
