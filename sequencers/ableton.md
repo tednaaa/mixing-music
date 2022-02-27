@@ -154,11 +154,11 @@
 
 > Очень классная штука - scratch
 
-## Сведение вокала
+## Сведение
 
 <details>
   <hr />
-  <summary>По началу нужно сгруппировать все дорожки которые относятся к вокалу</summary>
+  <summary>По началу нужно сгруппировать все общие дорожки (мелодия/драм партия/вокал)</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894401-fd68aca1-888b-4074-b4e6-1462d455581e.png">
   <hr />
 </details>
@@ -257,5 +257,29 @@
   <hr />
   <summary>Первый называем DRY и отключаем Reverb, это наш сухой сигнал</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155897287-108a8c52-2d12-4fe6-a485-0d0a0389715e.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Копируем DRY, называем Short и ставим примерно такие настройки (комната)</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155898396-f8bd84bd-928d-43e0-a2b1-e920893c28a1.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Копируем Short, называем Long и ставим примерно такие настройки, также хочу подметить что эквалайзер который слева я ставлю на слух, как лучше будет звучать трек, серебряной пули нет</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155898523-f6b129fe-366d-478e-b61c-6fab8838de7d.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Для эхо добавляем в этот список Delay выкручиываем Dry/Wet на макс. и выбираем цифру, в моем случае 8</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155898815-fd23e27c-4dfe-4e72-9207-8a16df0afb92.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Но после применения настроек мы услышем что эхо перебивает основной звук, для исправление используем `Compressor`, нажимаем на кнопку Sidechain, выбираем дорожку с основным звуком и отпускаем синюю полоску. с помощью этого мы добьемся такого результата, что когда играет основной звук (например вокал) то Delay (эхо) приглушается, а когда нету основного звука, то Delay (эхо) поднимается</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155899052-b2c614be-4498-4358-9cc2-533be1376f59.png">
   <hr />
 </details>
