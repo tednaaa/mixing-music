@@ -2,7 +2,7 @@
 
 > Шорткаты для быстрой разработки
 
-[](https://user-images.githubusercontent.com/79831859/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
+![](https://user-images.githubusercontent.com/79831859/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
 
 > Вот так должна выглядеть примерная структура трека
 
