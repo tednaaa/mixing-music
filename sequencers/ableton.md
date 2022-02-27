@@ -243,7 +243,7 @@
   <hr />
 </details>
 
-> Ну и в целом все! :) остается только сгруппировать эти все инструменты нажатием Ctrl + G
+> Ну и в целом все! :) остается только выбрать эти все инструменты и сгруппировать нажатием Ctrl + G
 
 > Ну и сами эффекты =)
 
@@ -251,5 +251,11 @@
   <hr />
   <summary>Добавляем Reverb и создаем группу (Ctrl + G) чтобы легче аперировать эффектами</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155897042-744b7b93-2266-454e-9f95-b9853adb664c.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Первый называем DRY и отключаем Reverb, это наш сухой сигнал</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155897287-108a8c52-2d12-4fe6-a485-0d0a0389715e.png">
   <hr />
 </details>
