@@ -52,56 +52,44 @@
   <hr />
 </details>
 
-> Чтобы сделать семпл пожирнее можно заюзать инструмент `Saturator`, подкручивая `drive`
-
 <details>
   <hr />
-  <summary>Saturator</summary>
+  <summary>Чтобы сделать семпл пожирнее можно заюзать инструмент Saturator, подкручивая drive</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881511-db2103c1-41a5-4446-85f0-d2c2e8d4b003.png">
   <hr />
 </details>
 
-> `Master` канал должен быть зеленым, чтобы трек не бил по ушам, а также не вылезли баги после рендера
-
 <details>
   <hr />
-  <summary>Master</summary>
+  <summary>Master канал должен быть зеленым, чтобы трек не бил по ушам, а также не вылезли баги после рендера</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881911-352c926c-2c15-4e6c-99a1-c99454afccf0.png">
   <hr />
 </details>
 
-> Чтобы когда мы молчим, вместо шума была "пустота" - можно использовать `Gate` (не всегда помогает, иногда нужно самому убирать в дорожках места где тишина)
-
 <details>
   <hr />
-  <summary>Gate</summary>
+  <summary>Чтобы когда мы молчим, вместо шума была "пустота" - можно использовать Gate (не всегда помогает, иногда нужно самому убирать в дорожках места где тишина)</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881864-66e83e06-7058-42f0-9be2-0c8838874510.png">
   <hr />
 </details>
 
-> Можно использовать инструмент `Auto Pan` чтобы звук прыгал с левого уха в правую и наоборот (также можно выбрать частоту)
-
 <details>
   <hr />
-  <summary>Auto Pan</summary>
+  <summary>Можно использовать инструмент Auto Pan чтобы звук прыгал с левого уха в правую и наоборот (также можно выбрать частоту)</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883155-d1adc67a-6cb0-4f8a-8139-7bf2b793ab72.png">
   <hr />
 </details>
 
-> Можно использовать `Glue compressor`, если нужно поджимать несколько вокалов в одном треке и получить вау эффект
-
 <details>
   <hr />
-  <summary>Glue compressor</summary>
+  <summary>Можно использовать Glue compressor, если нужно поджимать несколько вокалов в одном треке и получить вау эффект</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884105-81b46ceb-31ea-4775-8500-dc80070cda13.png">
   <hr />
 </details>
 
-> Чтобы получить более объемный звук можно использовать `Utility` и подкрутить `width`
-
 <details>
   <hr />
-  <summary>Utility</summary>
+  <summary>Чтобы получить более объемный звук можно использовать Utility и подкрутить `width`</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884134-6356f8f4-f3c1-458d-9f32-6a991d73d40f.png">
   <hr />
 </details>
@@ -123,31 +111,25 @@
 
 > Также можно получить прикольный эффект делая мелодию в стиле вопрос-ответ
 
-> `Note Length` чтобы мелодия как будто мазалась, к примеру когда в пианино нажимаешь одну педальку, и появяляется хвостик
-
 <details>
   <hr />
-  <summary>Note Length</summary>
+  <summary>Note Length чтобы мелодия как будто мазалась, к примеру когда в пианино нажимаешь одну педальку, и появяляется хвостик</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883345-4b3b3a7e-4854-489b-bd45-4199e768dfb3.png">
   <hr />
 </details>
 
-> `Compressor` делает звук плотнее
-
 <details>
   <hr />
-  <summary>Compressor</summary>
+  <summary>Compressor делает звук плотнее</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884197-58abef03-675f-45ba-8847-855ec4e96876.png">
   <hr />
 </details>
 
 > Чтобы использовать автоматизации нужно перенести плагин на дорожку потом нажать пкм по плагину и show automation, также можно отдельно сами ползунки автоматизировать)
 
-> С помощью ассистента плагина Nectar 3 plus можно обработать вокал
-
 <details>
   <hr />
-  <summary>Nectar 3 plus</summary>
+  <summary>С помощью ассистента плагина Nectar 3 plus можно обработать вокал</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883996-ce1f8f77-d104-4a2b-a2c7-1cb4c9dc4117.png">
   <hr />
 </details>
