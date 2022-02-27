@@ -6,7 +6,7 @@
 
 > Вот так должна выглядеть примерная структура трека
 
-[image]([userimages]/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
+![image]([userimages]/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
 ![image](https://user-images.githubusercontent.com/79831859/155880092-e31b2b3a-f7d9-4bb0-b6a0-f31996281dcd.png)
 
 
