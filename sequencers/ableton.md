@@ -186,7 +186,7 @@
 </details>
 <details>
   <hr />
-  <summary>Проверяем резонансы, после 150-300гц</summary>
+  <summary>Проверяем резонансы, после 150-300гц (5 точка)</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895179-3f7c9c12-bc9f-43bf-a5a2-ee4156cc53f4.png">
   <hr />
 </details>
@@ -194,5 +194,11 @@
   <hr />
   <summary>И режем их (5|6 точки)</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895253-82e6e15f-ff46-43d4-8a90-662c5bef88ef.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Ну и можем немного поднять вверха, чтобы добавить некую воздужность вокалу (8 точка)</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895410-571e20d2-0760-4618-8438-07555d152531.png">
   <hr />
 </details>
