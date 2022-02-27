@@ -39,7 +39,7 @@
 
 <details>
   <hr />
-  <summary>тык</summary>
+  <summary>EQ Eight</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155879782-dcaccfad-4b53-4439-a439-3b815ac64ee5.png">
   <br />
   <br />
