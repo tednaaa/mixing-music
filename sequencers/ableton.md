@@ -54,7 +54,12 @@
 
 > Чтобы сделать семпл пожирнее можно заюзать инструмент `Saturator`, подкручивая `drive`
 
-![image](https://user-images.githubusercontent.com/79831859/155881511-db2103c1-41a5-4446-85f0-d2c2e8d4b003.png)
+<details>
+  <hr />
+  <summary>Saturator</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881511-db2103c1-41a5-4446-85f0-d2c2e8d4b003.png">
+  <hr />
+</details>
 
 > `Master` канал должен быть зеленым, чтобы трек не бил по ушам, а также не вылезли баги после рендера
 
