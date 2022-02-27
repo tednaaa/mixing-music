@@ -72,11 +72,21 @@
 
 > Чтобы когда мы молчим, вместо шума была "пустота" - можно использовать `Gate` (не всегда помогает, иногда нужно самому убирать в дорожках места где тишина)
 
-![image](https://user-images.githubusercontent.com/79831859/155881864-66e83e06-7058-42f0-9be2-0c8838874510.png)
+<details>
+  <hr />
+  <summary>Gate</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881864-66e83e06-7058-42f0-9be2-0c8838874510.png">
+  <hr />
+</details>
 
 > Можно использовать инструмент `Auto Pan` чтобы звук прыгал с левого уха в правую и наоборот (также можно выбрать частоту)
 
-![image](https://user-images.githubusercontent.com/79831859/155883155-d1adc67a-6cb0-4f8a-8139-7bf2b793ab72.png)
+<details>
+  <hr />
+  <summary>Auto Pan</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883155-d1adc67a-6cb0-4f8a-8139-7bf2b793ab72.png">
+  <hr />
+</details>
 
 > Можно использовать `Glue compressor`, если нужно поджимать несколько вокалов в одном треке и получить вау эффект
 
