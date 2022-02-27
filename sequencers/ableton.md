@@ -1,10 +1,14 @@
-> Шорткаты для быстрой разработки
-
-![](https://user-images.githubusercontent.com/79831859/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
+<details>
+  <summary>Шорткаты для быстрой разработки</summary>
+  ![](https://user-images.githubusercontent.com/79831859/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
+</details>
 
 > Вот так должна выглядеть примерная структура трека
 
-![image](https://user-images.githubusercontent.com/79831859/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
+<details>
+  <summary>тык</summary>
+  ![image](https://user-images.githubusercontent.com/79831859/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
+</details>
 
 ## Основы
 
