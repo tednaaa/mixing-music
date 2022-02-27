@@ -222,5 +222,11 @@
       <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895902-d211a57a-cd07-49ff-9734-2c489314e0fe.png">
     </li>
   </ul>
+
+  <div>
+    А также лайфхак! - можно отпустить до конца Thresh, а потом чуть чуть поднимать, регулировать
+    <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895902-d211a57a-cd07-49ff-9734-2c489314e0fe.png">
+  </div>
+
   <hr />
 </details>
