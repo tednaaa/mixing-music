@@ -90,15 +90,32 @@
 
 > Можно использовать `Glue compressor`, если нужно поджимать несколько вокалов в одном треке и получить вау эффект
 
-![image](https://user-images.githubusercontent.com/79831859/155884105-81b46ceb-31ea-4775-8500-dc80070cda13.png)
+<details>
+  <hr />
+  <summary>Glue compressor</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884105-81b46ceb-31ea-4775-8500-dc80070cda13.png">
+  <hr />
+</details>
 
 > Чтобы получить более объемный звук можно использовать `Utility` и подкрутить `width`
 
-![image](https://user-images.githubusercontent.com/79831859/155884134-6356f8f4-f3c1-458d-9f32-6a991d73d40f.png)
+<details>
+  <hr />
+  <summary>Utility</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884134-6356f8f4-f3c1-458d-9f32-6a991d73d40f.png">
+  <hr />
+</details>
 
 > классный прием с reverb - [ютубчик](https://youtu.be/0GyYwpVfmds?t=3207)
 
 > для реберберации вокала, лучше использовать VST-шки Valhalla
+
+<details>
+  <hr />
+  <summary>Valhalla</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155885720-f33275d6-0b26-453f-88e4-61c874cb46e3.png">
+  <hr />
+</details>
 
 > Для ещё одного вау эффекта можно использовать `дабл паттерн`, т.е двойной голос вокала который и свести одно в левое, другое в правое ухо
 
@@ -108,16 +125,31 @@
 
 > `Note Length` чтобы мелодия как будто мазалась, к примеру когда в пианино нажимаешь одну педальку, и появяляется хвостик
 
-![image](https://user-images.githubusercontent.com/79831859/155883345-4b3b3a7e-4854-489b-bd45-4199e768dfb3.png)
+<details>
+  <hr />
+  <summary>Note Length</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883345-4b3b3a7e-4854-489b-bd45-4199e768dfb3.png">
+  <hr />
+</details>
 
 > `Compressor` делает звук плотнее
 
-![image](https://user-images.githubusercontent.com/79831859/155884197-58abef03-675f-45ba-8847-855ec4e96876.png)
+<details>
+  <hr />
+  <summary>Compressor</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884197-58abef03-675f-45ba-8847-855ec4e96876.png">
+  <hr />
+</details>
+
+> Чтобы использовать автоматизации нужно перенести плагин на дорожку потом нажать пкм по плагину и show automation, также можно отдельно сами ползунки автоматизировать)
 
 > С помощью ассистента плагина Nectar 3 plus можно обработать вокал
 
-> Чтобы использовать автоматизации нужно перенести плагин на дорожку потом нажать пкм по плагину, и show automation, также можно отдельно сами ползунки автоматизировать)
-
-![image](https://user-images.githubusercontent.com/79831859/155883996-ce1f8f77-d104-4a2b-a2c7-1cb4c9dc4117.png)
+<details>
+  <hr />
+  <summary>Nectar 3 plus</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155883996-ce1f8f77-d104-4a2b-a2c7-1cb4c9dc4117.png">
+  <hr />
+</details>
 
 > Очень классная штука - scratch
