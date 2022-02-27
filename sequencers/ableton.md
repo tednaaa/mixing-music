@@ -89,8 +89,8 @@
 
 <details>
   <hr />
-  <summary>Чтобы получить более объемный звук можно использовать Utility и подкрутить `width`</summary>
-  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155884134-6356f8f4-f3c1-458d-9f32-6a991d73d40f.png">
+  <summary>Чтобы получить более объемный звук можно использовать Utility и подкрутить width</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155900214-928d3e77-166c-4380-8ea8-ce088ec843bd.png">
   <hr />
 </details>
 
