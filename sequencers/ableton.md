@@ -202,3 +202,16 @@
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895410-571e20d2-0760-4618-8438-07555d152531.png">
   <hr />
 </details>
+
+> Компрессия голоса
+
+<details>
+  <hr />
+  <summary>Грубо говоря `Compressor` нужен для того что тихие места сделать громче, а громкие тише, чтобы в миксе голос всегда был на одном уровне громкости</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895580-2cd5e7e5-b2e2-4d59-8dc0-66f60f975822.png">
+  <br />
+  <ul>
+    <li>`Ratio` - отвечает за силу сжатия, насколько сильно будет сжиматься то что выше желтого круга</li>
+  </ul>
+  <hr />
+</details>
