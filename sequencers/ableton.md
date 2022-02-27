@@ -208,7 +208,7 @@
 <details>
   <hr />
   <summary>Грубо говоря Compressor нужен для того что тихие места сделать громче, а громкие тише, чтобы в миксе голос всегда был на одном уровне громкости</summary>
-  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895580-2cd5e7e5-b2e2-4d59-8dc0-66f60f975822.png">
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895702-7fc9ff13-e9ee-406c-ad31-71f2f32bde50.png">
   <br />
   <br />
   <ul>
