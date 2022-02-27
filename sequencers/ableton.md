@@ -1,12 +1,12 @@
-[userimages]: https://user-images.githubusercontent.com/79831859
+[userimages]: https://user-images.githubusercontent.com/79831859/
 
 > Шорткаты для быстрой разработки
 
-[]([userimages]/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
+[](https://user-images.githubusercontent.com/79831859/155879351-b1c15219-d845-40b9-83d1-e47b0ab2b42d.png)
 
 > Вот так должна выглядеть примерная структура трека
 
-[]([userimages]/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
+[image]([userimages]/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png)
 
 ## Основы
 
@@ -20,4 +20,4 @@
 
 > После этого нужно эквализировать, есть стоковый инструмент EQ Eight в ableton, который достаточно неплохой где можно поднять/опустить чистоты семплов чтобы не было резонаннсов/жужаний
 
-[](https://user-images.githubusercontent.com/79831859/155879782-dcaccfad-4b53-4439-a439-3b815ac64ee5.png)
+[image](https://user-images.githubusercontent.com/79831859/155879782-dcaccfad-4b53-4439-a439-3b815ac64ee5.png)
