@@ -233,3 +233,12 @@
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155896671-bb15d6f5-8e58-4b8f-bd4b-b23887207b3e.png">
   <hr />
 </details>
+
+> Делаем голос жирнее, сочнее с помощью `Saturator`, который будет насыщать сигнал гармониками, частот становиться больше и все звучит плотнее
+
+<details>
+  <hr />
+  <summary>По сути тут нам только интересует крутилка Drive</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155896880-208945eb-6094-4f5b-a592-d9c47d10ff9a.png">
+  <hr />
+</details>
