@@ -169,3 +169,24 @@
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894311-28f7cfdf-b84e-4f34-aedd-0503363cf83b.png">
   <hr />
 </details>
+
+> Эквализация вокала через `EQ Eight`
+
+<ul>
+  <li>
+    <details>
+      <hr />
+      <summary>Убираем низкие частоты (примерно до 50гц у мужского вокала и 100гц женского) чтобы не было конфликтов с бассом/киком (1)</summary>
+      <img width="994" alt="image" src="https://user-images.githubusercontent.com/79831859/155894534-a2078b42-e6f1-4377-a658-b15bda0c3638.png">
+      <hr />
+    </details>
+  </li>
+  <li>
+    <details>
+      <hr />
+      <summary>Убираем гудение, обращаем внимание в области 150-300гц (коробка)</summary>
+      <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894743-3acefe06-34ab-4ab8-968d-14d80488cb4e.png">
+      <hr />
+    </details>
+  </li>
+</ul>
