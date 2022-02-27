@@ -222,6 +222,14 @@
   <div>А также лайфхак! - можно отпустить до конца Thresh, а потом чуть чуть поднимать, регулировать</div>
   <br />
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895902-d211a57a-cd07-49ff-9734-2c489314e0fe.png">
+  <hr />
+</details>
 
+> Убираем шипящие звуки с помощью `De-esser`
+
+<details>
+  <hr />
+  <summary>Такие же настройки как у компрессора</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155896671-bb15d6f5-8e58-4b8f-bd4b-b23887207b3e.png">
   <hr />
 </details>
