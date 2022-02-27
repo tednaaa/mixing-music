@@ -1,5 +1,5 @@
 # Мои попытки стать музыкантом из программиста
 
-> Вот так должна выглядеть примерная структура трека
+> Меню
 
-<img width="1264" alt="image" src="https://user-images.githubusercontent.com/79831859/155879029-e7bb8eaa-ef78-4b1b-8519-60b1c66902f1.png">
+- [Касательно Ableton live 11](sequencers/ableton.md)
