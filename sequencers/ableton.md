@@ -172,37 +172,27 @@
 
 > Эквализация вокала через `EQ Eight`
 
-<ul>
-  <li>
-    <details>
-      <hr />
-      <summary>Убираем низкие частоты (примерно до 50гц у мужского вокала и 100гц женского) чтобы не было конфликтов с бассом/киком (1 точка)</summary>
-      <img width="994" alt="image" src="https://user-images.githubusercontent.com/79831859/155894534-a2078b42-e6f1-4377-a658-b15bda0c3638.png">
-      <hr />
-    </details>
-  </li>
-  <li>
-    <details>
-      <hr />
-      <summary>Убираем гудение, обращаем внимание в области 150-300гц (коробка) (2|3 точки)</summary>
-      <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894743-3acefe06-34ab-4ab8-968d-14d80488cb4e.png">
-      <hr />
-    </details>
-  </li>
-  <li>
-    <details>
-      <hr />
-      <summary>Проверяем резонансы, после 150-300гц</summary>
-      <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895179-3f7c9c12-bc9f-43bf-a5a2-ee4156cc53f4.png">
-      <hr />
-    </details>
-  </li>
-  <li>
-    <details>
-      <hr />
-      <summary>И режем их (5|6 точки)</summary>
-      <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895253-82e6e15f-ff46-43d4-8a90-662c5bef88ef.png">
-      <hr />
-    </details>
-  </li>
-</ul>
+<details>
+  <hr />
+  <summary>Убираем низкие частоты (примерно до 50гц у мужского вокала и 100гц женского) чтобы не было конфликтов с бассом/киком (1 точка)</summary>
+  <img width="994" alt="image" src="https://user-images.githubusercontent.com/79831859/155894534-a2078b42-e6f1-4377-a658-b15bda0c3638.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Убираем гудение, обращаем внимание в области 150-300гц (коробка) (2|3 точки)</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894743-3acefe06-34ab-4ab8-968d-14d80488cb4e.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Проверяем резонансы, после 150-300гц</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895179-3f7c9c12-bc9f-43bf-a5a2-ee4156cc53f4.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>И режем их (5|6 точки)</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155895253-82e6e15f-ff46-43d4-8a90-662c5bef88ef.png">
+  <hr />
+</details>
