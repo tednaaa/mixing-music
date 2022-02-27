@@ -63,7 +63,12 @@
 
 > `Master` канал должен быть зеленым, чтобы трек не бил по ушам, а также не вылезли баги после рендера
 
-![image](https://user-images.githubusercontent.com/79831859/155881911-352c926c-2c15-4e6c-99a1-c99454afccf0.png)
+<details>
+  <hr />
+  <summary>Master</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155881911-352c926c-2c15-4e6c-99a1-c99454afccf0.png">
+  <hr />
+</details>
 
 > Чтобы когда мы молчим, вместо шума была "пустота" - можно использовать `Gate` (не всегда помогает, иногда нужно самому убирать в дорожках места где тишина)
 
