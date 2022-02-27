@@ -283,3 +283,18 @@
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155899052-b2c614be-4498-4358-9cc2-533be1376f59.png">
   <hr />
 </details>
+
+## Мастеринг
+
+<details>
+  <hr />
+  <summary>Можем взять стоковый пресет для мастеринга, например Master Full Chain и добавляем эффекты по желанию (например басс)</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155899284-6baa65f5-b710-4eef-b511-346e45cea981.png">
+  <hr />
+</details>
+<details>
+  <hr />
+  <summary>Также можем немного увеличить звук с помощью Limiter, ставим Ceiling -1dB и поднять сколько нам нужно крутилку Gain</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155899347-0323c998-2b7a-49f8-9085-26b8d2b3b695.png">
+  <hr />
+</details>
