@@ -156,12 +156,16 @@
 
 ## Сведение вокала
 
-- По началу нужно сгруппировать все дорожки которые относятся к вокалу
-- С помощью фейдов нужно добавить некую плавность между семплами на дорожке
+<details>
+  <hr />
+  <summary>По началу нужно сгруппировать все дорожки которые относятся к вокалу</summary>
+  <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894401-fd68aca1-888b-4074-b4e6-1462d455581e.png">
+  <hr />
+</details>
 
 <details>
   <hr />
-  <summary>фотка</summary>
+  <summary>С помощью фейдов нужно добавить некую плавность между семплами на дорожке</summary>
   <img alt="image" src="https://user-images.githubusercontent.com/79831859/155894311-28f7cfdf-b84e-4f34-aedd-0503363cf83b.png">
   <hr />
 </details>
